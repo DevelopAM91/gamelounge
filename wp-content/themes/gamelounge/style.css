@@ -1,0 +1,24 @@
+/*
+Theme name:  Gamelounge
+Author:  Alessio Martinuzzi
+Description:  Custom theme for Gamelounge code challenge
+Version:  1.0
+*/
+
+body{
+	padding:  50px;
+}
+.home .target-post-type{
+	padding: 0px 15px 0px 15px;
+	cursor: auto;
+}
+.home .target-post-type-post:hover{
+	pointer-events: none;
+	background-color: #0d6efd;
+	border-color: #0d6efd;
+}
+.home .target-post-type-book:hover{
+	pointer-events: none;
+	background-color: #198754;
+	border-color: #198754;
+}
